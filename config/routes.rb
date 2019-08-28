@@ -9,6 +9,6 @@ Rails.application.routes.draw do
   resources :users, except: %i[new create]
   get  '/posts',     to: 'posts#index'
   get  '/posts/new', to: 'posts#new'
-  post '/posts/new', to: 'posts#create'
+  post '/posts', to: 'posts#create'
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
-end
+end`

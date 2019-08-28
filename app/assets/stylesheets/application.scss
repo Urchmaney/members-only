@@ -122,7 +122,7 @@
  
  /* Posts */
  .post-container {
-   @extend .container;
+   padding: 10px;
    border: 1px solid $gray-lighter;
    border-radius: 4px;
    box-shadow: 0 1px 4px $gray-lighter;
@@ -131,6 +131,20 @@
    margin-top: 10px;
  }
  
+ .author{
+   color : #618bef;
+   font-size: 20px;
+ }
+
+ .content-container{
+  width: 70%;
+  margin:auto;
+  height: 100px;
+  padding:10px;
+  border: 1px solid #d3d3de;
+  border-radius: 5px;
+ }
+
  #post {
    margin: 10px;
  }
