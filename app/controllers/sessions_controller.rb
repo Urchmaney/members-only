@@ -3,8 +3,9 @@
 class SessionsController < ApplicationController
   def new
     return unless logged_in?
+
     flash[:danger] = 'You Have already logged in'
-    redirect_to posts_path  
+    redirect_to posts_path
   end
 
   def create
