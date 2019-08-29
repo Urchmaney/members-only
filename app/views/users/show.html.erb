@@ -3,7 +3,7 @@
 <ol class='posts'>
     <% if @user.posts.any? %>
         <% @user.posts.each do |post|%>
-            <li><%= link_to post.title, post %></li>
+            <li><%= link_to post.title, posts_path %></li>
         <% end %>
     <% end %>
 </ol>
