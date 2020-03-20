@@ -4,12 +4,19 @@ Full description of the project can be found [Here, Odin Projects.](https://www.
 
 <img src="app/assets/images/screen-shot.png" width="500" align="middle" />
 
+## Instructions
+- Clone Repository. run `git clone https://github.com/Urchmaney/members-only.git`.
+- Change into directory. run `cd members-only`.
+- From terminal run `bundle install`.
+- If previous commands run successfully, run `rail s` to start application.
+
 ## AUTHORS
 
 👤 **Kingsley Uche**
 
-- Github: [@githubhandle](https://github.com/Urchmaney)
-- Linkedin: [linkedin](https://www.linkedin.com/in/kingsley-uche/)
+- Github: [@urchmaney](https://github.com/Urchmaney)
+- Linkedin: [@urchamney](https://www.linkedin.com/in/kingsley-uche/)
+- Twitter: [@urchmaney](https://twitter.com/kingsleyunegbu)
 
 👤 **Samuel Cornet**
 
