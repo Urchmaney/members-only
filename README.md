@@ -10,6 +10,9 @@ Full description of the project can be found [Here, Odin Projects.](https://www.
 - From terminal run `bundle install`.
 - If previous commands run successfully, run `rail s` to start application.
 
+## Technologies
+- Ruby
+- Ruby on Rails
 ## AUTHORS
 
 👤 **Kingsley Uche**
