@@ -1,15 +1,14 @@
-# MEMBERS-ONLY PROJECT
+## MEMBERS-ONLY PROJECT
+A web based project where only member can view posts in the platform. Help better understand the idea of authentication.
+Full description of the project can be found [Here, Odin Projects.](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication)
 
-#ABOUT THE PROJECT
+## AUTHORS
 
-This project is based on creating posts. Only registered users can access and create posts. Once you registered, you can view all the previous posts made by other users. We have created the registered, loging, and posts pages from scratch. A user can Register, loging, logout, view and create posts. This project was made possible by the Odin's projects.
+👤 **Kingsley Uche**
 
-#AUTHORS OR THIS PROJECT
+- Github: [@githubhandle](https://github.com/Urchmaney)
+- Linkedin: [linkedin](https://www.linkedin.com/in/kingsley-uche/)
 
-Samuel Cornet [Github link](https://github.com/CornetS28)
-Kinsley Uche [Github link](https://github.com/Urchmaney)
+👤 **Samuel Cornet**
 
-# ACCESS THIS PROJECT
- Kinsley Uche [[Github link]](https://github.com/Urchmaney/members-only)
-
-
+- Github: [@githubhandle](https://github.com/CornetS28)
