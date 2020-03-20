@@ -1,0 +1,20 @@
+<%if @post.errors.any?%>
+    <div class='container'>
+        <% @post.errors.full_messages.each do |message| %>
+            <%= content_tag(:div, message, class: "alert alert-danger") %>
+        <% end %>
+        
+    </div>
+<%end%>
+
+
+
+<div class="col-md-5 col-md-offset-3">
+<%= form_for @post do |f|%>
+    <%=f.label :title , 'Title'%>
+    <%=f.text_field :title , placeholder: 'Title', class: 'form-control'%>
+    <%=f.label :content , 'Content'%>
+    <%=f.text_area :content , placeholder: 'Content',class: 'form-control'%>
+    <%= f.submit 'Post', class: 'btn btn-primary'%>
+<%end%>
+</div>

@@ -1,0 +1,22 @@
+<h1>Posts</h1>
+
+<div class="col-md-6 col-md-offset-3">
+    <%@posts.each do |post|%>
+        <div class="post-container">
+            <%if logged_in?%>
+                <div class="author">
+                    Author : <%=post.user.name%>
+                </div>
+            <%end%>
+           
+            <div>
+                Title : <%=post.title%>
+            </div>
+            <div class="content-container">
+                <%=post.content%>
+            </div>
+           
+           
+        </div>
+    <%end%>
+</div>

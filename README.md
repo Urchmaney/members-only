@@ -1,24 +1,15 @@
-# README
+# MEMBERS-ONLY PROJECT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#ABOUT THE PROJECT
 
-Things you may want to cover:
+This project is based on creating posts. Only registered users can access and create posts. Once you registered, you can view all the previous posts made by other users. We have created the registered, loging, and posts pages from scratch. A user can Register, loging, logout, view and create posts. This project was made possible by the Odin's projects.
 
-* Ruby version
+#AUTHORS OR THIS PROJECT
 
-* System dependencies
+Samuel Cornet [Github link](https://github.com/CornetS28)
+Kinsley Uche [Github link](https://github.com/Urchmaney)
 
-* Configuration
+# ACCESS THIS PROJECT
+ Kinsley Uche [[Github link]](https://github.com/Urchmaney/members-only)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
